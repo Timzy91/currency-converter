@@ -1,0 +1,2 @@
+insert into transactions(id, description, transaction_date, amount) values (2001, 'thousand first transaction', '2023-12-13', 40.47);
+insert into transactions(id, description, transaction_date, amount) values (2002, 'thousand second transaction', '2022-09-18', 99.999);
